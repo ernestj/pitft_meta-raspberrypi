@@ -5,7 +5,7 @@
 #          "
 
 # local repository
-SRCREV = "polievanie"
-SRC_URI = "git:///srv/workspace/raspberrypi/workspace/kernel_3.12.18;branch=polievanie;protocol=file"
+SRCREV = "pitft"
+SRC_URI = "git:///srv/workspace/raspberrypi/workspace/kernel_3.12.18;branch=pitft;protocol=file"
 
 require linux-raspberrypi.inc
